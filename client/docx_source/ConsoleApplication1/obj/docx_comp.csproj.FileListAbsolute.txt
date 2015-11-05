@@ -1,0 +1,6 @@
+C:\Documents and Settings\Pauls\My Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pauls\My Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\docx_comp.csproj.ResolveComReference.cache
+C:\Documents and Settings\Pauls\My Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\docx_comp.exe
+C:\Documents and Settings\Pauls\My Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\docx_comp.pdb
+C:\Documents and Settings\Pauls\My Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\docx_comp.exe
+C:\Documents and Settings\Pauls\My Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\docx_comp.pdb
